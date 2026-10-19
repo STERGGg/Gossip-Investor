@@ -1,0 +1,1 @@
+# Eurostat: lfsa_ergacob (employment rate, age 20 to 64, 2024, by country of birth), migr_pop3ctb (foreign-born residents 1 Jan 2025), tps00001 (population 1 Jan 2025). Retrieved 19 Oct 2026 via the Eurostat API. France 2024 flagged break in series. Foreign-born is wider than INSEE's 'immigres' (includes French citizens born abroad).
