@@ -1,0 +1,5 @@
+Q1 2026     4.67
+Q2 2026    11.20
+Q3 2026    16.80
+Run rate 67.2bn; valuation 2000bn = 29.8x run rate
+Target revenue at 10x: 200bn. Years needed: 25% a year: 4.9, 50% a year: 2.7, 100% a year: 1.6

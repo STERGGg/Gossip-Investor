@@ -1,0 +1,10 @@
+Annual commitments 175bn vs run rate 50bn (3.5x)
+Growth needed to reach 175bn: 2y 87% a year, 3y 52% a year, 4y 37% a year
+Cumulative burn to 2029: -228bn; trough -228bn vs raised 122bn
+Oracle 60bn vs run rate 50bn: 120%
+2025     13.1
+2026     30.0
+2027     62.0
+2028    102.8
+2029    170.4
+2030    282.5

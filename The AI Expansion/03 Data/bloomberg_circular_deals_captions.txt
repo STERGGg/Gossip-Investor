@@ -1,0 +1,21 @@
+Bloomberg Originals, "How Circular Deals Are Driving the AI Boom", published 23 January 2026
+https://www.youtube.com/watch?v=9yy_Wz0BbyU
+English captions captured 19 October 2026 from the YouTube player (seconds | caption). Used only for the points cited as [BBG3].
+
+52 | Nvidia will invest as much as $100 billion in OpenAI.
+70 | About 80% of US businesses use AI.
+117 | Nvidia has said it's going to invest up to a hundred billion dollars in OpenAI. At the same time, OpenAI is a major customer of Nvidia's chips.
+133 | One example is Oracle. OpenAI sometimes will lease compute from Oracle. And so you have Oracle being a customer of Nvidia.
+160 | I don't think there's anything inappropriate about that in principle. Now, if you start stacking these where they get to huge amounts of money... you can overextend yourself.
+170 | It becomes kind of symbiotic... if one of those companies stumbles or doesn't do well, does the whole thing fall apart?
+188 | Construction spending in 2025 is down in most sectors, but not data centers or power stations.
+204 | One recent estimate from Morgan Stanley predicts that companies will spend $3 trillion on AI data centers.
+311 | So far, all major AI projects are operating at a loss.
+326 | Sam Altman says OpenAI should be able to break even around 2029, 2030.
+355 | These AI data center companies are the canary in the coal mine.
+396 | Dot com crash: $5 trillion in vanished value.
+413 | Amazon's share price didn't recover for another eight years after the dot com crash.
+421 | Cisco, one of the picks and shovels companies, took 25 years before its stock price recovered.
+467 | Everyday Americans are exposed to this risk via 401(k)s and other investment accounts.
+516 | Dot com era fibre optic overbuild later became the backbone of internet broadband.
+577 | It's clearly the biggest gamble that Wall Street has ever made... the wager to end them all.
