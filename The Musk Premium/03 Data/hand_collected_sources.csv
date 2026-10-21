@@ -1,0 +1,38 @@
+key,value,unit,description,source,url
+spcx_q3_rev,14.6,USD bn,SpaceX revenue Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_rev_ly,5.6,USD bn,SpaceX revenue Q3 2025,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_ai,7.6,USD bn,SpaceX AI (cloud computing) revenue Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_ai_ly,0.813,USD bn,SpaceX AI revenue Q3 2025,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q2_ai,2.56,USD bn,SpaceX AI revenue Q2 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_starlink,5.2,USD bn,Starlink revenue Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_starlink_ly,3.0,USD bn,Starlink revenue Q3 2025,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_starlink_ni,2.4,USD bn,Starlink net income Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_launch,1.8,USD bn,Launch revenue Q3 2026 (small loss),Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_ni,4.4,USD bn,SpaceX net profit Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_ni_ly,-1.1,USD bn,SpaceX net loss Q3 2025,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q3_capex,19.6,USD bn,SpaceX capex Q3 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q4_capex_low,35,USD bn,SpaceX Q4 2026 capex guidance low,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_q4_capex_high,40,USD bn,SpaceX Q4 2026 capex guidance high,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_compute_gw,1.7,GW,SpaceX installed computing capacity end Sep 2026,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_compute_gw_2027,13,GW,Musk expects at least 13 GW by end 2027,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+spcx_ipo_price,135,USD,SpaceX IPO offer price 12 Jun 2026,Alphaspread,https://www.alphaspread.com/market-news/ipo/spacex-begins-trading-after-record-ipo-opens-above-135-offer-price
+spcx_ipo_value,1770,USD bn,Valuation at the offer price,Alphaspread,https://www.alphaspread.com/market-news/ipo/spacex-begins-trading-after-record-ipo-opens-above-135-offer-price
+spcx_ipo_raised,86,USD bn,Raised including greenshoe,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+terafab_cost,119,USD bn,Possible cost of Terafab chip plant in Texas,Financial Times (20 Oct 2026),https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+tsla_mcap_jul21,1423,USD bn,Tesla market cap 21 Jul 2026 (FactSet via WSJ),24/7 Wall St (24 Jul 2026),https://247wallst.com/investing/2026/07/24/toyota-made-6-times-more-profit-than-tesla-last-year-tesla-stock-is-still-worth-more-than-the-next-37-automakers-combined/
+next37_mcap,1415,USD bn,Next 37 vehicle and parts makers combined,24/7 Wall St (24 Jul 2026),https://247wallst.com/investing/2026/07/24/toyota-made-6-times-more-profit-than-tesla-last-year-tesla-stock-is-still-worth-more-than-the-next-37-automakers-combined/
+toyota_ni_fy26,25.45,USD bn,Toyota net income year to Mar 2026,24/7 Wall St (24 Jul 2026),https://247wallst.com/investing/2026/07/24/toyota-made-6-times-more-profit-than-tesla-last-year-tesla-stock-is-still-worth-more-than-the-next-37-automakers-combined/
+toyota_pe,10,x,Toyota trailing P/E Jul 2026,24/7 Wall St (24 Jul 2026),https://247wallst.com/investing/2026/07/24/toyota-made-6-times-more-profit-than-tesla-last-year-tesla-stock-is-still-worth-more-than-the-next-37-automakers-combined/
+tsla_deliv_q1_26,358023,vehicles,Tesla deliveries Q1 2026,TIKR (5 Oct 2026),https://www.tikr.com/blog/tesla-stock-is-down-15-this-year-is-the-396-street-target-within-reach
+tsla_deliv_q2_26,480126,vehicles,Tesla deliveries Q2 2026,TIKR (5 Oct 2026),https://www.tikr.com/blog/tesla-stock-is-down-15-this-year-is-the-396-street-target-within-reach
+tsla_deliv_q3_26,486532,vehicles,Tesla deliveries Q3 2026,TIKR (5 Oct 2026),https://www.tikr.com/blog/tesla-stock-is-down-15-this-year-is-the-396-street-target-within-reach
+tsla_capex_2026,25,USD bn,Tesla 2026 capex expected above,TIKR (5 Oct 2026),https://www.tikr.com/blog/tesla-stock-is-down-15-this-year-is-the-396-street-target-within-reach
+pay_first_tranche,2000,USD bn,First market cap tranche of Musk 2025 award,CBT News (7 Nov 2025),https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+pay_final_tranche,8500,USD bn,Final market cap tranche,CBT News (7 Nov 2025),https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+pay_profit_top,400,USD bn,Top adjusted profit milestone,CBT News (7 Nov 2025),https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+pay_vehicles,20,million,Vehicle delivery milestone,CBT News (7 Nov 2025),https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+pay_vote,75,%,Share of votes in favour 6 Nov 2025,CBT News (7 Nov 2025),https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+roadster_mass_lb,4000,lb,Roadster weight '4000+ pound' (Marques Brownlee),TechCrunch (15 Oct 2026),https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/
+roadster_0_60,1.0,s,Claimed 0 to 60 mph for Thrust version,TechCrunch (15 Oct 2026),https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/
+roadster_air_litres,600,litres,Compressed air feeding 10 thrusters (Lars Moravy),TechCrunch (15 Oct 2026),https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/
+roadster_thrust_deposit,250000,USD,Thrust version reservation,Fortune (17 Oct 2026),https://fortune.com/2026/10/17/tesla-flying-roadster-spacex-thrusters-2028-production-price/

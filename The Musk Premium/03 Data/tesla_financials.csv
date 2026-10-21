@@ -1,0 +1,9 @@
+symbol,period,period_ending,revenue_bn,operating_income_bn,net_income_bn,operating_cash_flow_bn,capex_bn
+TSLA,quarter,2025-09-30,28.095,1.624,1.373,6.238,2.248
+TSLA,quarter,2025-12-31,24.901,1.409,0.84,3.813,2.393
+TSLA,quarter,2026-03-31,22.387,0.941,0.477,3.937,2.493
+TSLA,quarter,2026-06-30,28.236,0.398,1.114,4.697,5.789
+TSLA,annual,2022-12-31,81.462,13.656,12.556,,
+TSLA,annual,2023-12-31,96.773,8.891,14.997,,
+TSLA,annual,2024-12-31,97.69,7.076,7.091,,
+TSLA,annual,2025-12-31,94.827,4.355,3.794,,

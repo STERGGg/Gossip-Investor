@@ -1,0 +1,15 @@
+ALPHA1|Alphaspread (2026), SpaceX begins trading after record IPO, opens above $135 offer price, 12 June 2026.|https://www.alphaspread.com/market-news/ipo/spacex-begins-trading-after-record-ipo-opens-above-135-offer-price
+CBT1|CBT News (2025), Tesla shareholders approve Musk's $1 trillion pay package, 7 November 2025.|https://www.cbtnews.com/tesla-shareholders-approve-musks-1-trillion-pay-package/
+CNN1|CNN Business (2019), Elon Musk's predictions, May 2019.|https://amp.cnn.com/cnn/2019/05/02/tech/elon-musk-predictions
+DRIVE1|The Drive (2023), Tesla Cybertruck deliveries will officially start next month, 18 October 2023.|https://www.thedrive.com/news/tesla-cybertruck-deliveries-will-officially-start-next-month
+FORT1|Lin, B. (2026), Tesla is taking $250,000 deposits for a Roadster with SpaceX thrusters. The FAA says it isn't an aircraft, Fortune, 17 October 2026.|https://fortune.com/2026/10/17/tesla-flying-roadster-spacex-thrusters-2028-production-price/
+FT1|Morris, S. and McMorrow, R. (2026), SpaceX and Tesla boards are exploring potential merger, Financial Times, 20 October 2026.|https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37
+NBC1|NBC News (2026), In a reversal, SpaceX prioritizes 'city' on the moon over Mars project, Musk says, February 2026.|https://www.nbcnews.com/science/space/spacex-prioritizes-moon-before-mars-musk-says-rcna258168
+PEB1|Planet Earth and Beyond (2026), SpaceX scrubs 2026 Starship Mars mission, 17 January 2026.|https://www.planetearthandbeyond.co/p/spacex-scrubs-2026-starship-mars
+TC1|O'Kane, S. (2026), Tesla reveals SpaceX powered Roadster that flies and falls with style, TechCrunch, 15 October 2026.|https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/
+TIKR1|TIKR (2026), Tesla stock is down 15% this year. Is the $396 Street target within reach?, 5 October 2026.|https://www.tikr.com/blog/tesla-stock-is-down-15-this-year-is-the-396-street-target-within-reach
+WALL1|24/7 Wall St (2026), Toyota made 6 times more profit than Tesla last year, Tesla stock is still worth more than the next 37 automakers combined, 24 July 2026.|https://247wallst.com/investing/2026/07/24/toyota-made-6-times-more-profit-than-tesla-last-year-tesla-stock-is-still-worth-more-than-the-next-37-automakers-combined/
+WIN1|19FortyFive (2026), The Mars launch window opens in November 2026 and closes about a month later. The next one is in 2029, August 2026.|https://www.19fortyfive.com/2026/08/the-mars-launch-window-opens-in-november-2026-and-closes-about-a-month-later-the-next-one-is-in-2029/
+YAHOO1|Yahoo Finance (2026), Stock market today, Oct. 16: Tesla slips 2% as Roadster reveal fades before earnings, 16 October 2026.|https://finance.yahoo.com/markets/stocks/articles/stock-market-today-oct-16-214303806.html
+DATA1|Nasdaq daily closing prices for Tesla (TSLA) and SpaceX (SPCX), retrieved 21 October 2026 through the OpenBB platform.|https://www.nasdaq.com
+DATA2|Tesla income and cash flow statements (quarterly and annual, to June 2026), from Nasdaq, retrieved 21 October 2026 through the OpenBB platform.|https://www.nasdaq.com
